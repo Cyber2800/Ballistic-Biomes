@@ -1,0 +1,15 @@
+modLoader="javafml"
+loaderVersion="[34,)"
+license="All rights reserved"
+[[mods]]
+modId="ballisticbiomes"
+version="${file.jarVersion}"
+displayName="Ballistic Biomes"
+logoFile="examplemod.png"
+credits="Cyber2000 §l[§r§6§lOwner§r§l/§r§a§lProgrammer§r§l]§r, Nary §l[§r§c§lArtist§r§l/§r§1§lModeler§r§l]§r, SharkyTheNarwhal §l[§r§c§lArtist§r§l/§r§1§lModeler§r§l]§r, Elithris §l[§r§c§lArtist§r§l]§r, Spooky BlackWidow §l[§r§c§lArtist§r§l]§r, TheAllGamer §l[§r§1§lArtist§r§l]§r, XI_DEMO_IX §l[§r§a§lProgrammer§r§l]§r, and Rellit §l[§r§2§lProgrammer§r§l]§r."
+authors="Cyber2000, Nary, SharkyTheNarwhal, Elithris, Spooky BlackWidow, TheAllGamer, XI_DEMO_IX, and Rellit."
+description='''
+No
+Description
+Given
+Yet'''
